@@ -28,6 +28,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## Clone o repositório
 
 ```bash
-git clone ...
+git clone https://github.com/deniscoelho-js/automacao_wr_001.git
 
 ```
